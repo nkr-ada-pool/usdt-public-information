@@ -1,0 +1,8 @@
+{
+"name":"NKR#1406",
+"ticker":"USDT",
+"discordId":"813360999645577266",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/nkr-ada-pool/public-information/master/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/nkr-ada-pool/public-information/master/sjg-validation.json"
+}
